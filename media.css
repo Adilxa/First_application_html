@@ -1,0 +1,16 @@
+
+@media(max-width: 320px){
+
+    main{
+      flex-wrap: wrap;
+    }
+
+    .hide{
+        display: block;
+    }
+
+    .vision{
+        display: none;
+    }
+  
+  }
